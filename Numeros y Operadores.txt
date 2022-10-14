@@ -1,0 +1,14 @@
+Numeros y Operadores
+
+Numeros en Programacion
+Forman una parte inportante en programacion.
+
+Mantener un resultado, totales a pagar, balances, likes en una foto.
+
+Algunos lenguajes manejan todo tipo de numero igual, mientras que otros tienen enteros o floats.
+
+Cuerpo de un operador
+2 + 3 --> Entradas / Inputs / Operados
++ --> Operador
+Ejemplos: 8+4, 1*4, 10/3
+

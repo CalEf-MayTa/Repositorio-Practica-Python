@@ -1,0 +1,3 @@
+Nombre: Chavelo
+Teléfono: 998345773
+Categoria: Amigo

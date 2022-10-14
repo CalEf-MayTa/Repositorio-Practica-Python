@@ -1,0 +1,46 @@
+¿Que es Programacion Orientada a Objetos (POO)?
+Es una forma de escribir codigo quese considera de las mas efectivas.
+Cuando defines una clase deberas describir el comportamiento y forma de ese objeto.
+Objeto es la forma de referirse a la informacion creada por una clase (Instancia de una clase).
+Cada instancia de la clase tendra la misma "forma" pero difernete informaicon.
+
+Ejemplos de como crear clases:
+
+-> en JavaScript:
+class Cliente {
+	// resto de la clase
+}
+const cliente = new Cliente();
+
+-> en PHP
+<?php
+class Cliente {
+	// resto de la clase
+}
+$cliente =
+
+-> en Java
+public class Cliente {
+	// resto de la clase
+}
+Cliente cliente = new Cliente();
+
+-> en Python
+class Cliente:
+	#resto de la clase
+cliente = Cliente()
+
+TERMINOLOGIA
+Instancia: El objeto que es creado al llamar una clase.
+Atributo de Clase: Es una propiedad que tendran todos los objetos creados con nuestra clase. Le da forma a los datos o organizarlos.
+Método: Es una funcion que existe dentro de una Clase.
+
+ABSTRACIÓN: Son los datos necesarios de una Clase, si elaboras un menú de un restaurante es necesario el nombre de platillo, descripcion y precio, otros datos como el color favorito del Chef no son necesarios.
+
+ENCAPSULAMIENTO: Permite restringir u ocultar el acceso a los datos dentro de la misma clase del mundo exterior ( usualmente se modifican via matodos en la misma clase ).
+
+HERENCIA: Puedes crear una clase que sea hijo o una copia de otra, al heredar una clase tendrás todos los métodos y atributos de la clase padre en el hijo, y podrás modificarlos en caso de ser necesario.
+
+POLIMORFISMO: Es la habilidad de tener diferentes comportamientos basado en que subclase se esta utilizando, relacionado muy estrechamente con Herencia.
+
+

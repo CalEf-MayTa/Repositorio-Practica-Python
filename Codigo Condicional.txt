@@ -1,0 +1,43 @@
+Escribir codigo condicional
+
+Hasta el monento nuestro codigo funciona de arrieba hacia abajo.
+Algunas vaces deseas que un codigo se ejecute de acuerdo a ciertas condiciones.
+Si un usuario esta loqueado, si tiene saldo en su cuenta, si un chofer esta cerca, si alguien acepto tu invitacion a ser amigos.
+
+If en Python
+
+balance = 500
+
+if balance > 0:
+	print("Puede pagar")
+
+Operadores que se pueden utilizar para evaluar una condicion:
+== Igual a,
+!= Deferente a,
+> Mayor a,
+>= Mayour o igual a,
+< Menor a,
+<= Menor o igual a.
+
+If... else...
+Si una condicion es evaluada como veradera se ejecuta en codigo.
+Pero algunas veces deseas tener otra accion que se realice en caso de que la condicion evaluada no se cumpla.
+
+If... elif... else...
+Algunas ocasiones deseas evaluar una condicion u otra y realizar diferentes acciones segun sea al caso.
+En python se conoce como elif,m pero en otros lenguajes puede ser else if.
+
+If elif else en Python
+
+ocupacion = 'Estudiante'
+
+if ocupacion == 'Estudiante':
+	print('Tienes 50% de descuento')
+elif ocupacion == 'Jubilado':
+	print('Tienes el 75% de descuento')
+else:
+	print('Debes pagar el 100%')
+
+Revisar 2 o más condiciones
+if y elif revisaran que se cumplan una condición.
+Algunas veces requieres codigo que revise que se cumplan 2 o mas condiciones, o que se cumpla al menos 1.

@@ -1,0 +1,12 @@
+Entrada de datos por parte del Usuario
+
+La mayoria del codigo que escribas tiene como fin solucionar un problema de un usuario.
+Por ejemplo: Publicar en tu muro, realizar un examen en linea, subir una imagen, solicitar un taxi, crear un evento, realizar un pago, son acciones que requieren entrada de datos por parte del usuario.
+
+En Python se utiliza la funcion input() para detener la ejecucion del programa hasata que el usuario agrege informacion.
+
+RETO: Realiza un examen con 3 preguntas que tu desees, el usuario debera Responder "SI" o "NO" y al final otorgarle una calificacion (La calificacion se logra con una variable que inicia en 0 y por cada respuesta correcta incrementa en 1)
+
+while y for 
+Anteriormente vimos que un for se ejecuta determinado numero de ocaciones segun sean los elementos de una coleccion (como un arreglo)
+En la mayoria de lenguajes existe el while que se ejecuta mentras una condicion sea verdadera.

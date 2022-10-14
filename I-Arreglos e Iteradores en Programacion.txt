@@ -1,0 +1,42 @@
+Arreglos en programacion
+
+Un arreglo permite agrupar deferente informacion en un solo lugar.
+Usualmente un array puede contener cualquier tipo de dato que no sean muy relacionados entre si.
+En Python no existe los arrays, en su lugar existen los lists.
+
+Creacion de arreglos en diferentes lenguajes de Programacion:
+siendo 'meses' el nombre del arreglo
+
+Como se crea un arreglo en JavaScript
+const meses = ["Enero", "Febrero", "Marzo"];
+
+Como se crea un arreglo en PHP
+$meses = ["Enero", "Febrero", "Marzo"];
+
+Como se crea un list en Python
+meses = ["Enero", "Febrero", "Marzo"];
+
+Acceder a un elemento de un arreglo o list
+comensando de izquierda en cero a derecha el ultimo elemento de la lista.
+meses = ["Enero", "Febrero", "Marzo"];
+
+meses[0]	//	Enero
+meses [2]	//	Marzo
+
+
+Iteradores en Programacion
+Algunas veces desearas correr el mismo codigo determinedo, numericom
+
+
+
+
+
+
+
+
+
+
+
+
+
+

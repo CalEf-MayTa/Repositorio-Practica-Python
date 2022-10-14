@@ -1,0 +1,3 @@
+Nombre: Karen INC
+Teléfono: 98327483
+Categoria: CLIENTE

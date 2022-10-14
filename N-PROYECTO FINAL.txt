@@ -1,0 +1,14 @@
+CRUD - Create Read Update Delete
+C = Create - Crear
+R = Read - Leer
+U = Update - Actualizar
+D = Delete - Borrar
+Los datos de una aplicacion web, escritorio o movil deberan tener la habilidad de realizar estas operaciones.
+
+IDEAS DE PROYECTOS
+1. Aplicacion con archivos para restaurant.
+2. Directorio de Empresa con subcarpetas /gerencia /ventas.
+3. Sistema de administracion de biblioteca con prestamo de libros (un libro prestamo deberá moverse a carpeta hacia prestados).
+4. Crear un juego de Piedra, Papel o Tijera.
+
+Comineza en pequeño, piensa en grande.

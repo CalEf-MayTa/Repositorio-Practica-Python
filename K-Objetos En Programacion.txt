@@ -1,0 +1,6 @@
+que son los objetos
+
+Un objeto es rn cierte medida simialr a un array, te permite agrupar contenidos de diferente tipos de datos.
+Usualmente se accede a un elemento de un array por medio de su indice, en un objeto se accede por medio de una llave (key).
+Algunos lenguajes no soportan objetos, en Python se utilizan algo llamado Dictionary.
+

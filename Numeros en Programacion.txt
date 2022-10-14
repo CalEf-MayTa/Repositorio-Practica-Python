@@ -1,0 +1,9 @@
+Números en Programacion
+Forma una parte iimportante en programacion.
+Mantener un resultado, totales a pagar, balances, likes en una foto.
+Algunos lenguajes manejan todo tipo de números igua, mientras que otros tienen enteros o flotantes.
+Los languajes de programacion tienen operadores para los números.
+
+Cuerpo de un operador
+
+

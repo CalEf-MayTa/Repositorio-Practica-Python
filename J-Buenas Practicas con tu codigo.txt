@@ -1,0 +1,13 @@
+Comentarios
+
+Ventajas de comentar tu codigo
+Sin duda es de las mejores practicas que puedes tener.
+Se comenta el codigo por 2 razones: servir como recordatorio prar el futro y como documentacion.
+No se debe comentar hasta lo mas simple, comenta lo que puedes ser importante.
+
+La importacia del espacio y el orden
+Mantener espacios y orden en tu codigo te permitira que sea mas facil leer.
+El orden en el codigo es algo que muchos programadores que van comenzando no toman muy enserio.
+
+Gerarquias en el codigo mediante la tabulacion.
+No tener tanto estacion entre lines en el codigo.

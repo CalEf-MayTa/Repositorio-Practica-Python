@@ -1,0 +1,33 @@
+Una funcion es un bloque de codigo diseñado para realizar una actividad.
+
+Todos los lenguajes tienen una gran cantida de fuciones ya establesidas.
+
+Algunas veces la funcion que necesitas no existe o requieres algo mas especifico y deberas crear tus propias funciones.
+
+Algunas veces se utiliza de forma intercambiable la palabra metodo.
+
+Ejemplos para definir una funcion siendo 'hola' el nombre:
+-JavaScript
+funtion hola()
+-Python
+def hola()
+-Ruby
+def hola()
+-Kotlin
+fun hola()
+
+Proceso de crear una funcion:
+Definir (CREAR) la funcion
+def hola():
+Ejecutar la funcion
+hola()
+
+Funciones
+mostrarNombre(nombre)
+
+Metodos
+nombre.upper()
+
+
+
+
